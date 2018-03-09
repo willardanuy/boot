@@ -1,0 +1,4 @@
+rootProject.name = 'gs-service-registration-and-discovery'
+
+include 'epi-express-client'
+include 'gateway-service'
